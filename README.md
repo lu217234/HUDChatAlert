@@ -6,6 +6,8 @@
 * **File Path:** `\Users\xxxx\AppData\Roaming\.minecraft\mods`
 * **Default GUI Keybind:** `O`
 
+### EventHUD GUI
+
 <img width="482" height="430" alt="image" src="https://github.com/user-attachments/assets/fa772c1a-29b8-402d-9f9a-c3b584015c2b" />
 
 ### Sight/Integration Settings
