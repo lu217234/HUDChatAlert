@@ -42,8 +42,8 @@
 
 <img width="483" height="425" alt="image" src="https://github.com/user-attachments/assets/d642c357-2b29-434b-9b69-7249ef3f4884" />
 
-* **Chat Trigger Text:** `YOUR_DESIRED_SCRAPED_TEXT` *(example: `Envoys » An Envoy has spawned!`)*
-* **Discord Message Content:** `YOUR_DESIRED_DISCORD_MESSAGE` *(example: `Envoy <@&1538047222791405668>`)*
+* **Chat Trigger Text:** `YOUR_DESIRED_SCRAPED_TEXT` *(example: `Rewarded Benefit (2 hours): Voyage Skipper`)*
+* **Discord Message Content:** `YOUR_DESIRED_DISCORD_MESSAGE` *(example: `Voyage Skipper <@&1538047222791405668>`)*
 
 <img width="499" height="91" alt="image (1)" src="https://github.com/user-attachments/assets/b97794a1-1492-4d62-828a-80b3d2de11e3" />
 
