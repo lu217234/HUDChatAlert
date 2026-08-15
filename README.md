@@ -44,14 +44,12 @@
 
 * **Chat Trigger Text:** `YOUR_DESIRED_SCRAPED_TEXT` *(example: `Envoys » An Envoy has spawned!`)*
 * **Discord Message Content:** `YOUR_DESIRED_DISCORD_MESSAGE` *(example: `Envoy <@&1538047222791405668>`)*
+<img width="499" height="91" alt="image (1)" src="https://github.com/user-attachments/assets/b97794a1-1492-4d62-828a-80b3d2de11e3" />
 * **+Add New Chat Alert:** Creates a new Chat Alert index
 * **Delete Selected:** Deletes current chat Alert index
 * **< - >:** View `[<]` or `[>]` index*
  
-<img width="499" height="91" alt="image (1)" src="https://github.com/user-attachments/assets/b97794a1-1492-4d62-828a-80b3d2de11e3" />
-
 ### Mod Documentation
 
 <img width="885" height="614" alt="image" src="https://github.com/user-attachments/assets/7aef898f-6d0e-49cc-9a3a-4724af0ef6e9" />
 
-<img width="310" height="85" alt="image" src="https://github.com/user-attachments/assets/e6b2e7c8-da41-466b-b827-6ec4a35c5ec2" />
