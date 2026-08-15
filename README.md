@@ -32,6 +32,7 @@
 * **Delete Selected:** Deletes current event Alert index
 * **< - >:** View `[<]` or `[>]` index
 
+###EventHUD
 <img width="235" height="117" alt="image" src="https://github.com/user-attachments/assets/2eb0b838-60c7-4906-9bd5-1efa892108e4" />
 
 ### Manage Chat Alerts
